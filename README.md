@@ -2,6 +2,10 @@ Gulp Boilerplate for generic CSS/HTML/JS development
 =============
 <a href="http://riverco.de" target="_blank">riverco.de</a> gulp boilerplate.
 
+
+npm install gulp@3.9.1 --save
+
+
 Structure
 =============
 `/src/` - thats where you write code.
